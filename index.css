@@ -1,0 +1,22 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.head{
+    background-color: brown;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow:6px 2px 5px blue;
+    color:white;
+}
+.head1{
+    background-color:blue;
+    font-style: italic;
+    color: greenyellow;
+    height:60px;
+}
+.head2{
+    background-color:yellow;
+    list-style-type:circle;
+    color: blue;
+    height: 60px; 
+}
